@@ -7,16 +7,16 @@ interface Student {
 }
 
 const std_one: Student = {
-  firstName: "John",
-  lastName: "Doe",
-  age: 19,
+  firstName: "Peter",
+  lastName: "John",
+  age: 20,
   location: "Somewhere",
 };
 
 const std_two: Student = {
-  firstName: "Jane",
-  lastName: "Doe",
-  age: 21,
+  firstName: "Mary",
+  lastName: "John",
+  age: 18,
   location: "Somewhere else",
 };
 
